@@ -1,0 +1,70 @@
+Git Summary - by phc-s (github.com/phc-s) (WIP)
+
+_ _ _ _ _ _ _ _
+
+Table of contents:
+
+1. What's Git & GitHub
+2. How to use it
+3. Essential commands
+4. Complete dictionary
+
+_ _ _ _ _ _ _ _
+
+1. What's Git & Github
+
+Git, is a free open-source versioning control programming language, that allow the user to track changes made during production, and also revert changes. They are made of repositories, being locally made on a PC or relying on remote repositories like Github for example. All of this to ensure proper development backup and flexibility. GitHub is the most known remote repository service into the web, other platforms include GitLab and BitBucket.
+
+There are fundamental previous knowledges and terms to be understood before getting started to learn git.
+
+Knowledge:
+
++ Basic from computation.
++ Basic Programming Logic.
++ Terminal and Command Line (CLI).
++ Basic Knowledge on IDEs.
+
+Common Terms:
+
++ Command Line Interface - Also known as Terminal or Shell.
++ Directory - Where your files are within (Folder).
++ Repository - Where your project files are kept.
+
+_ _ _ _ _ _ _ _
+
+2. How to use it
+
+Creating a repository:
+
+You can create a repository directly from GitHub, a repository stores all of your project files and it's an excellent way to keep your projects online and access anywhere. The most common and fundamental file in a GitHub repository is a readme file, which its main objective is to describe what's in the project and explain completely since from concepts to its functions. Alternatively...
+
+Creating an Excellent README.md:
+
+It's recommended to create a README.md description in GitHub itself, since it's much more versatile to see, it uses a simple text structure, and you can change the text size with # (headers) and put images with drag & drop in his field or manually using relative links.
+
+How it works then?
+
+Using Git, you can track your code History and revert potential mistakes you did into the project, to "save" these changes, you need to commit them, using the command "git commit -m "message"", also, you need to track what's added and changed with "add" and "rm", to revert those changes, use...
+
+Branching (WIP)
+
+_ _ _ _ _ _ _ _
+
+3. Essential commands
+
+clone - Get all clean files from an existing remote repository and bring them to a local directory from your PC. (Github)
+init - Start a brand Git new repository!
+add - Add files to track & change in Git system.
+rm - Remove your files permanently, so use it with caution!
+commit - Save your file changes in Git system.
+push - Upload your Git commit to a remote repository like GitHub,
+pull - Update your local project with an actual version located in a remote repository.
+checkout - Remove a file from the commit list.
+status - it shows your commit change status.
+...
+
+_ _ _ _ _ _ _ _
+
+4. Complete dictionary
+
+(TBA)
