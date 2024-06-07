@@ -13,7 +13,7 @@ _ _ _ _ _ _ _ _
 
 1. What's Git & Github
 
-Git, is a free open-source versioning control programming language, that allows the user to track changes made during production, and also revert changes. They are made of repositories, being locally made on a PC or relying on remote repositories like Github for example. All of this to ensure proper development backup and flexibility. GitHub is the most known remote repository service into the web, other platforms include GitLab and BitBucket.
+Git, is a free open-source versioning control programming language, that allows the user to track changes made during production, and also revert changes. They are made of repositories, being locally made on a PC or relying on remote repositories like Github for example. All of this to ensure proper development backup and flexibility. GitHub is the most known remote repository service into the web, other platforms include GitLab and BitBucket. It's recommended to every programmer create your own GitHub account, focusing to showcase all of the projects they developed.
 
 There are fundamental previous knowledges and terms to be understood before getting started to learn git.
 
@@ -29,6 +29,7 @@ Common Terms:
 + Command Line Interface - Also known as Terminal or Shell.
 + Directory - Where your files are within (Folder).
 + Repository - Where your project files are kept.
++ README.md - A file to describe your project into GitHub
 
 _ _ _ _ _ _ _ _
 
@@ -40,13 +41,17 @@ You can create a repository directly from GitHub, a repository stores all of you
 
 Creating an Excellent README.md:
 
-It's recommended to create a README.md description in GitHub itself, since it's much more versatile to view, it uses a simple text structure, and you can change the text size with # (headers) and put images with drag & drop in his field or manually using relative links. You can also add emojis, this will make your README.md more colorful and creative, despite not being obligatory....
+Before getting started to explain better about Git, It's recommended to create a README.md description in GitHub itself, since it's much more versatile to view, it uses a simple text structure, and you can change the text size with # (headers) and put images with drag & drop in his field or manually using relative links. You can also add emojis, this will make your README.md more colorful and creative, despite not being obligatory.
 
 How it works then?
 
-Using Git, you can track your code History and revert potential mistakes you did into the project, to "save" these changes, you need to commit them, using the command "git commit -m "message"", also, you need to track what's added and changed with "add" and "rm", to revert those changes, use "restore" to recover lost files. You can what changes are staged with "git status", to make these changes appear in an online repository, you need to use git push....
+Using Git, you can track your code History and revert potential mistakes you did into the project, to "save" these changes, you need to commit them, using the command "git commit -m "message"", also, you need to track what's added and changed with "add" and "rm", to revert those changes, use "restore" to recover lost files. You can what changes are staged with "git status", to make these changes appear in an online repository, you need to use git push. You already learn about some of basic snapshotting of Git!
 
-Branching (WIP)
+Branching explained:
+
+When thinking about Git, you could already think what happens if you broke the entire project, unhappily, it's possible to "destroy" a project, you need some caution to implement features and fix bugs if available, but when talking about that. Git brings Branching as solution, before applying changes in a definitive way, you can test and code creating a branch, this allows the programmer to create a copy of the existing repository in a new development environment, it's really useful since don't affect the repository main's branch. It preserves main code from any mistake. 
+
+To create, delete and manage with your branches, use "git branch" to help with it, to switch, use "switch" command When done with proper update to your project, you can merge using "merge" command to Git system automatically combine changes with a smooth transition.
 
 _ _ _ _ _ _ _ _
 
@@ -56,17 +61,25 @@ clone - Get all clean files from an existing remote repository and bring them to
 init - Start a brand Git new repository!
 add - Add files to track & change in Git system.
 rm - Remove your files permanently, so use it with caution!
+mv - Move or rename a file 
+diff - Check differences between commits.
 commit - Save your file changes in Git system.
+stash - Save your changes temporarily, despite not committing.
 push - Upload your Git commit to a remote repository like GitHub,
 pull - Update your local project with an actual version located in a remote repository.
-checkout - Remove a file from the commit list.
+checkout - Restore working tree files or changes branches.
+branch - List, create, or delete branches.
+merge - Merge your development branch to main branch.
+switch - Switch between branches.
 status - it shows your commit change status.
-....
+log - Shows commit logs using a list.
+
+Remember! Before typing those commands, insert git before it!
 
 _ _ _ _ _ _ _ _
 
 4. Complete dictionary
 
-As most of programming languages, you can access its documentation to deepen your comprehension with git....
+As most of programming languages, you can access its documentation to deepen your comprehension, with git, isn't different, below, you can access git's official documentation to check and learn further about this version control language. Despite suggesting it, the most effective way to learn Git is practicing with effort.
 
-Git reference documentation: https://git-scm.com/docs....
+Git reference documentation: https://git-scm.com/docs
