@@ -1,4 +1,4 @@
-Git Summary - by phc-s (github.com/phc-s) (WIP)
+Git Summary - by phc-s (github.com/phc-s)
 
 _ _ _ _ _ _ _ _
 
@@ -13,7 +13,7 @@ _ _ _ _ _ _ _ _
 
 1. What's Git & Github
 
-Git, is a free open-source versioning control programming language, that allows the user to track changes made during production, and also revert changes. They are made of repositories, being locally made on a PC or relying on remote repositories like Github for example. All of this to ensure proper development backup and flexibility. GitHub is the most known remote repository service into the web, other platforms include GitLab and BitBucket. It's recommended to every programmer create your own GitHub account, focusing to showcase all of the projects they developed.
+Git, is a free open-source versioning control programming language, that allows the user to track changes made during production, and also revert changes. All of this to ensure proper development backup and flexibility. GitHub is the most known remote repository service into the web, other platforms include GitLab and BitBucket. It's recommended to every programmer create your own GitHub account, focusing to showcase all of the projects they developed.
 
 There are fundamental previous knowledges and terms to be understood before getting started to learn git.
 
@@ -26,7 +26,7 @@ Knowledge:
 
 Common Terms:
 
-+ Command Line Interface - Also known as Terminal or Shell.
++ Command Line Interface - Also known as Terminal, Shell or Console.
 + Directory - Where your files are within (Folder).
 + Repository - Where your project files are kept.
 + README.md - A file to describe your project into GitHub
@@ -37,15 +37,22 @@ _ _ _ _ _ _ _ _
 
 Creating a repository:
 
-You can create a repository directly from GitHub, a repository stores all of your project files and it's an excellent way to keep your projects online and access anywhere. The most common and fundamental file in a GitHub repository is a readme file, which its main objective is to describe what's in the project and explain completely since from concepts to its functions. Alternatively, under a local folder, insert "git init" to initialize a new repository into your PC, doing it, you're ready to start to code and using git after it.
+You can create a repository directly from GitHub, a repository stores all of your project files and it's an excellent way to keep your projects online and access anywhere. The most common and fundamental file in a GitHub repository is a readme file, which its main objective is to describe what's in the project and explain completely since from concepts to its functions. Alternatively, under a local folder, insert "git init" with the Console to initialize a new repository into your PC, doing it, you're ready to start to code and using git after it.
 
 Creating an Excellent README.md:
 
 Before getting started to explain better about Git, It's recommended to create a README.md description in GitHub itself, since it's much more versatile to view, it uses a simple text structure, and you can change the text size with # (headers) and put images with drag & drop in his field or manually using relative links. You can also add emojis, this will make your README.md more colorful and creative, despite not being obligatory.
 
+They need to summarize your project with quick and objective information, some of them includes:
+
++ A brief explanation about your project, what it does and what's its main goal.
++ Instructions on installation of your project & usage guide.
++ List all of its dependencies, could be tools, library and software.
++ Licensing details & how can someone contribute to your open project.
+
 How it works then?
 
-Using Git, you can track your code History and revert potential mistakes you did into the project, to "save" these changes, you need to commit them, using the command "git commit -m "message"", also, you need to track what's added and changed with "add" and "rm", to revert those changes, use "restore" to recover lost files. You can what changes are staged with "git status", to make these changes appear in an online repository, you need to use git push. You already learn about some of basic snapshotting of Git!
+Using Git, you can track your code logs and revert potential mistakes you did into the project, to "save" these changes, you need to commit them, using the command "git commit -m "message"", also, you need to track what's added and changed with "add" and "rm", to revert those changes, use "restore" to recover lost files. You can what changes are staged with "git status", to make these changes appear in an online repository, you need to use git push. You already learn about some of basic snapshotting of Git!
 
 Branching explained:
 
