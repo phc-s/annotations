@@ -26,6 +26,7 @@ Knowledge:
 
 Common Terms:
 
++ IDE - Integrated Development Environment
 + Command Line Interface - Also known as Terminal, Shell or Console.
 + Directory - Where your files are within (Folder).
 + Repository - Where your project files are kept.
@@ -34,6 +35,10 @@ Common Terms:
 _ _ _ _ _ _ _ _
 
 2. How to use it
+
+Installing Git.
+
+Before starting practicing, it`s important to download Git into your hardware to work with, you can get instructions at (https://git-scm.com/downloads) or (https://github.com/git-guides/install-git), Installation instructions vary depending of your operating system.
 
 Creating a repository:
 
@@ -52,7 +57,7 @@ They need to summarize your project with quick and objective information, some o
 
 How it works then?
 
-Using Git, you can track your code logs and revert potential mistakes you did into the project, to "save" these changes, you need to commit them, using the command "git commit -m "message"", also, you need to track what's added and changed with "add" and "rm", to revert those changes, use "restore" to recover lost files. You can what changes are staged with "git status", to make these changes appear in an online repository, you need to use git push. You already learn about some of basic snapshotting of Git!
+Using Git, you can track your code logs and revert potential mistakes you did into the project, to "save" these changes, you need to commit them, using the command "git commit -m "message"", also, you need to track what's added and changed with "add" and "rm", to revert those changes, use "restore" to recover lost files. You can what changes are staged with "git status", to make these changes appear in an online repository, you need to use git push and will be asked a permission to your account to connect your IDE. You now just learned about some of basic snapshot skills of Git!
 
 Branching explained:
 
