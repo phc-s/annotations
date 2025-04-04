@@ -45,13 +45,15 @@ Accessing Figma.
 
 Since Figma is a online application, it's required to create a new account in order to use it, necessary to store your projects, allow online interactions within Figma. If you have a account, you can directly learn about the most essential surface elements of Figma. Upon access. You will commonly be directed through files section, where will listed of your drafts. in the main screen you do a series of actions described below
 
-Recents - ... 
-Drafts - ...
-Trash - ...
+Recents - Here, you will check the most recent activity in Figma, both for your project or from some other external activities within Figma.
+Drafts - Drafts are the name given to the design files you create, it uses this general name since it can also include Figjam and Slide decks.
+Trash - You can release unused content in the trash, unlike most of online trash section out there, there's no deletion deadline.
 
-More Info Coming Soon!
+Design Files.
 
-_ _ _ _ _ _ _ _
+Design files are the center within the Figma, I will focus only on it and ignore for now FigJam and slide decks, since those tool I do not use to produce with. Still not scrapping the idea of summarizing them. When acessing a Design File, it automatically creates as "untitled", it's highly suggested to rename it!
+
+There are 4 places that will be used frequently when creating with Figma...
 
 3. Essential Tools & Workflow
 
