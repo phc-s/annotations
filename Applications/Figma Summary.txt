@@ -51,11 +51,21 @@ Trash - You can release unused content in the trash, unlike most of online trash
 
 Design Files.
 
-Design files are the center within the Figma, I will focus only on it and ignore for now FigJam and slide decks, since those tool I do not use to produce with. Still not scrapping the idea of summarizing them. When acessing a Design File, it automatically creates as "untitled", it's highly suggested to rename it!
+Design files are the center within the Figma, I will focus only on it and ignore for now FigJam and slide decks, since those tool I do not use to produce with. Still not scrapping the idea of summarizing them. When acessing a Design File, it automatically creates as "untitled", it's highly suggested to rename it! Before diving into the main section, let's learn about the essential visual elements that covers a Figma Draft, they're located at your toolbox below.
 
-There are 4 places that will be used frequently when creating with Figma...
+Navigation - to select the items you wish in your project view, as default is selected the "move" tool, if youn want to not move the items but the project view, use the hand tool, when managing to scale and rotate your object, consider using the Hand Tool 
 
-3. Essential Tools & Workflow
+Frame - Used to simulate some device or section, is really good to use it instead rectangles to project your 
+
+Shapes -  You can create various shapes with it, including circles, rectangles, stars, lines
+
+Pen - 
+
+Comment -
+
+There are 4 places that will be used frequently when creating with Figma below, you will follow each of them and 
+
+File is one of the sections of the Figma Draft, here you can organize, check and select all of the items, visual elements, text etc., they're found in "layers" section, while if you want to divide into various workspaces, you can add Pages, allowing changing its name. the elements contained in file sections can have its properties changed into the inspector
 
 More Info Coming Soon!
 _ _ _ _ _ _ _ _
