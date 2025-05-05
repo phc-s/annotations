@@ -17,7 +17,6 @@ Here, I will insert all of the guide's progress, if they're complete, in work or
 
 + (❌) GIMP Summary
 + (❌) Inkscape Summary
-+ (❌) UI & UX Summary
 
 **Programming Skills**
 
@@ -25,8 +24,7 @@ Here, I will insert all of the guide's progress, if they're complete, in work or
 + (✅) Git Summary
 + (❌) HTML/CSS/JS Summary
 + (🧱) Linux Terminal Summary
-+ (❌) NodeJS and NPM Summary
-+ (❌) React Native Summary
++ (❌) Node Summary
 + (❌) React Summary
 + (❌) Typescript Summary
 
